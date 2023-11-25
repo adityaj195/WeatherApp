@@ -21,6 +21,7 @@ A simple weather app that allows users to get real-time weather information base
 2.Open the index.html file in a web browser.
 
 Usage
+
 1.Enter a city in the provided input field.
 
 2.Click the "Get Weather" button to retrieve and display weather information.
